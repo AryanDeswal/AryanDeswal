@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/_aryandeswal" target="blank"><img src="https://img.shields.io/twitter/follow/_aryandeswal?logo=twitter&style=for-the-badge" alt="_aryandeswal"  </p>
 
-- 🔭 I’m currently working on **SyncWave Web App**
-
 - 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **aryandeswal870@gmail.com**
